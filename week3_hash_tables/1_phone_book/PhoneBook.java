@@ -121,6 +121,7 @@ public class PhoneBook {
     }
     
 //----------------------FAST SCANNER-----------------------------
+    
 
     class FastScanner {
         BufferedReader br;
